@@ -1,0 +1,23 @@
+body {
+    font-family: "Open Sans", sans-serif;
+    
+}
+
+.navbar-custom {
+    background-color: transparent !important;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1000; 
+    color: white; 
+}
+
+.navbar-custom .navbar-nav .nav-link {
+    color: white !important; 
+}
+
+.carousel-inner img {
+    width: 100%;
+    height: auto;
+}
