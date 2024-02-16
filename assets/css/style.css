@@ -12,10 +12,11 @@ body {
     left: 0;
     right: 0;
     z-index: 1000;
-    color: white;
+    color: #FFFFFF
+    ;
 }
 .navbar-custom .navbar-nav .nav-link {
-    color: white !important;
+    color: #a7a7a7    !important;
 }
 .carousel-inner img {
     width: 100%;
